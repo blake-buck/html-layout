@@ -1,0 +1,42 @@
+nav{
+	background-color:silver;
+	color:silver;
+	height:100px;
+}
+#square{
+	background-color:navy;
+	color:navy;
+	float:left;
+	padding:25px 30px;
+	margin-left:1%;
+	margin-top:1%;
+}
+
+p{
+	width:40%;
+	margin-left:auto;
+	margin-right:auto;
+	font-size:1.3em;
+	margin-bottom: 50px;
+	margin-top: 50px;
+}
+#navy{
+	background-color:navy;
+	color:navy;
+	height:100px;
+}
+#cyan{
+	background-color:cyan;
+	color:cyan;
+	height:100px;
+}
+#green{
+	background-color:green;
+	color:green;
+	height:100px;
+}
+#orange{
+	background-color:orange;
+	color:orange;
+	height:100px;
+}

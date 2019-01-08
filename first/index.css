@@ -1,0 +1,25 @@
+
+header{
+	color:#444444;
+	background-color:#444444;
+	height:200px;
+}
+#column_group{
+	display:flex;
+	justify-content:space-between;
+}
+
+div div{
+	background-color:silver;
+	color:silver;
+	width:10%;
+	padding-top:50%;
+}
+
+footer{
+	align-self:flex-end;
+	background-color:#222222;
+	color:#222222;
+	width:80%;
+	height:100px;
+}
